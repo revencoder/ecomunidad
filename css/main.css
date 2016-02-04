@@ -1,0 +1,252 @@
+
+
+section.seccion-1{
+	background: url("../img/semilla.jpg") no-repeat center; 
+	min-height: 300px;
+	background-size: cover;
+}
+
+.logo{
+	width: 140px;
+	height: 125px;
+}
+
+nav{
+
+	font-size: 25px; 
+	padding:20px;
+}
+
+li{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 100px;
+}
+
+a{ 
+	color:gray;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A7C244;
+	text-decoration: none;
+}
+
+span{
+	color:gray;
+}
+
+.seccion-a{
+	background-color: #F2F2F2;
+	min-height: 200px;
+	background-size: cover;
+}
+
+.parrafo{
+	margin-top:100px;
+	color:#969696;
+}
+
+section.seccion-2{
+	background-color: white;
+	min-height: 300px;
+	background-size: cover;
+}
+
+.myv{
+	position: relative;
+	left: 140px;
+	margin-top: 50px;	
+}
+
+.pcambio{
+	margin-top: 10px;
+	font-size: 12px;
+	margin-bottom: 60px;
+}
+
+.negrita{
+	font-family: OpenSans-Bold;
+}
+
+
+.pad{
+	padding: 0px 100px 0px 110px;
+	margin-top: 10px;
+	font-size: 13px;
+	color:white;
+}
+
+.mtico{
+	margin-top: 80px;
+}
+
+.img{
+	width:669px;
+	height:388px;
+}
+
+.img2{
+	background: url("../img/fondo.jpg") no-repeat center; 
+	height: 388px;
+	width: 104.5%;
+	background-size: cover;
+	color:white;
+}
+
+.parrafo2{
+	color:#969696;
+	font-size: 13px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+
+.mtico2{
+	margin-top: 80px;
+	font-size: 20px;
+}
+
+.titulo{
+	font-size: 18px;
+}
+
+.iconos{
+	width: 100px;
+	height: 100px;
+}
+
+.seccion-6{
+	background-color: #5E8039;
+	min-height: 200px;
+	background-size: cover;
+	
+}
+
+.imga{
+	width:439px;
+	height:293px;
+	margin-top: 20px;
+
+}
+
+.cuadra{
+	position: relative;
+	left: 100px;
+	margin-top: 50px;	
+}
+
+.imgb{
+	width:200px;
+	height:200px;
+	margin-top: 20px;
+	border-radius: 150px
+
+}
+.myvc{
+	position: relative;
+	left: 120px;
+	margin-top: 50px;	
+
+}
+
+.titulomed{
+	font-size: 14px;
+	font-family: OpenSans-Bold;
+}
+
+.peque{
+	width: 40px;
+	height: 40px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 100px;
+}
+.seccion-8{
+	background: url("../img/fondo2.jpg") no-repeat center; 
+	min-height: 300px;
+	background-size: cover;
+}
+
+.imgc{
+	width:250px;
+	height:170px;
+}
+
+.titulomad{
+	font-size: 14px;
+}
+
+.slider{
+	display: inline-block;
+	position: relative;
+	right: 100px;
+	top: 100px;
+	height: 50px;
+	width: 50px;
+}
+
+.slider2{
+	display: inline-block;
+	position: relative;
+	left: 950px;
+	bottom: 290px;
+	height: 50px;
+	width: 50px;
+}
+
+.seccion-9{
+	background:#4D4D4D;
+	min-height: 300px;
+	background-size: cover;
+}
+
+.a{
+	margin-top: 50px;
+	border:1px solid white;
+	width: 25%;
+	height: 200px;
+	float: left;
+}
+
+.cuadra2{
+	margin:20px;
+}
+
+.titulo2{
+	font-family: OpenSans-Light;
+	font-size: 15px;
+}
+
+.eco{
+	width: 30px;
+	height:30px;
+	margin:100px 0px 0px 140px;
+}
+
+.b{
+	width: 35px;
+	height:25px;
+}
+
+footer{
+	background-color:#F2F2F2; 
+	min-height: 200px;
+	background-size: cover;
+}
+
+.tiny{
+
+	font-size: 12px;
+	font-family: OpenSans-Bold;
+}
+
+.mar{
+	margin-top: 100px;
+}
+
+.c{
+	color:#969696;
+}
+
